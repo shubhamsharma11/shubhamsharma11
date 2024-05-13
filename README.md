@@ -1,5 +1,5 @@
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&width=520&lines=Hey+My+name+is+Shubham+Sharma;I'm+a+.Net+Full+Stack +DevOps +Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Hey%F0%9F%91%8B+My+name+is+Shubham+Sharma;I'm+a+.Net+Full+Stack+DevOps+Engineer;Working+as+Senior+DevOps+Engineer+at+Cognizant+Technologies" alt="Typing SVG" /></a>
 </div>
 
 <br> <br>
@@ -69,7 +69,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
 <a href="http://www.github.com/shubhamsharma11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsharma11&stroke=ffffff&background=FFFFFF00&theme=dark&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <br>
-<a href="https://github.com/shubhamsharma11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsharma11&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=FFFFFF00&theme=dark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/shubhamsharma11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsharma11&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=FFFFFF00&theme=dark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 
