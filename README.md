@@ -3,6 +3,7 @@
 </div>
 
 <br> <br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/shubhamsharma17/">
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
@@ -41,6 +42,7 @@
 </div>
 
 <br><br>
+
 <div align="center">
 <a  href="https://www.github.com/shubhamsharma11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shubhamsharma11?logo=github&logoColor=000000&style=for-the-badge&color=000000&labelColor=FFFFFF" />
@@ -56,14 +58,12 @@ src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
 <hr>
 <br>
 
- 
 <div align=center>
    <b align="center" >My GitHub Stats</b>
   <br>
   <a href="https://github.com/shubhamsharma11/">
     <img src="https://github-readme-stats.vercel.app/api?username=shubhamsharma11&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true" />
   </a>
- 
 
 <br>
 <a href="http://www.github.com/shubhamsharma11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsharma11&stroke=ffffff&background=FFFFFF00&theme=dark&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -71,8 +71,6 @@ src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
 <br>
 <a href="https://github.com/shubhamsharma11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsharma11&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=FFFFFF00&theme=dark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
-
-
 
 <hr>
 
@@ -97,9 +95,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
 
 <h4 align="center">
   <a href="https://github.com/shubhamsharma11?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-  
-
-</a></div><br /><br /><br /><br /><br /><br /><br />
+</h4><br /><br /><br />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
