@@ -76,33 +76,22 @@ src="https://img.shields.io/youtube/channel/subscribers/UCFdrSW0_sTp7950tIp6zafQ
 
 <hr>
 
-
-
-<h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
-
-<br> 
-
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/shubhamsharma11/manoj_portfolio" title="Manoj_Portfolio">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shubhamsharma11&repo=manoj_portfolio&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+<div align="center">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=shubhamsharma11">
+    <img src="https://stats.quine.sh/shubhamsharma11/github?theme=dark" width="400px"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/shubhamsharma11/Blog_App" title="Blog App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shubhamsharma11&repo=Blog_App&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=shubhamsharma11">
+    <img src="https://stats.quine.sh/shubhamsharma11/dependencies?theme=dark" width="400px"/>
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=shubhamsharma11">
+    <img src="https://stats.quine.sh/shubhamsharma11/languages-over-time?theme=dark" width="400px"/>
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=shubhamsharma11">
+    <img src="https://stats.quine.sh/shubhamsharma11/topics-over-time?theme=dark" width="400px"/>
   </a>
 </div>
 
 <br/>
-
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/shubhamsharma11/calculator" title="Calculator">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shubhamsharma11&repo=calculator&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/shubhamsharma11/Tic-Tac-Toe-Game" title="Tic-Tac-Toe-Game">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shubhamsharma11&repo=Tic-Tac-Toe-Game&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
-  </a>
-</div>
 
 <br>
 
